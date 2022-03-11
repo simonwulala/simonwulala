@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @simonwulala
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+simonwulala/simonwulala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+just want to learn how to write :
+" a=first close > sar[1]
+is this proper?
